@@ -1,0 +1,7 @@
+
+Command 'system' not found, did you mean:
+
+  command 'system3' from deb simh
+  command 'systemd' from deb systemd
+
+Try: sudo apt install <deb name>
